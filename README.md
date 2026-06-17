@@ -12,7 +12,7 @@ Objectives
 
 ### Project Roadmap (v1)
 
-| Step |  | 
+| S.No| Steps | 
 | :---: | :--- | 
 | **1** | Use an open source AMR model |
 | **2** | Add sensors and robot joints to the robot model |
