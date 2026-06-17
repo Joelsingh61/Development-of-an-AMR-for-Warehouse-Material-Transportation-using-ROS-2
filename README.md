@@ -1,2 +1,31 @@
 # Development-of-an-AMR-for-Warehouse-Material-Transportation-using-ROS-2
 An Autonomous Mobile Robot (AMR) designed for warehouse material transportation. The robot navigates independently, avoids obstacles, and delivers materials between locations, improving efficiency, safety, and reducing manual labor.
+
+v1 
+
+Objectives  
+
+ 
+
+Move from point A to B in an environment 
+
+Detect and avoid obstacles 
+
+ 
+Steps  
+
+1 .Use an open source AMR model 
+2 .Add sensors and robot joints to the robot model 
+3 .Testing of all nodes 
+4 .Integrate moveit 
+5 .Spawn the robot and test basic movement 
+6 .Generate a warehouse map by exploring the environment using slam 
+7 .Save the generated map for future use 
+8 .Enable robot localization on the saved map 
+9 .Set target locations for material delivery 
+10 Plan optimal paths to the target locations 
+11 .Detect and avoid obstacles during navigation 
+12 . Transport materials autonomously between locations 
+13 . Evaluate navigation accuracy and delivery performance 
+
+ 
